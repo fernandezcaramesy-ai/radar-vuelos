@@ -1,0 +1,37 @@
+name: Actualizar Radar de Vuelos
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar script de vuelos
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: python radar_vuelos.py
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config --local user.email "bot@radarvuelos.local"
+          git config --local user.name "Radar Vuelos Bot"
+          git add destinos_hoy.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Actualización diaria de destinos"
+          git push
