@@ -1,5 +1,5 @@
 {
-  "actualizado_utc": "2026-11-25T04:59:58.473308+00:00",
+  "actualizado_utc": "2026-11-26T04:58:32.804657+00:00",
   "origen": "MAD",
   "destinos": [
     {
@@ -13,6 +13,30 @@
       "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLJv3t_EuAFFBnBY-w2C-c9ceu7OiVJaqEp8G_NYf9u57k4sPpA3_NopX-vOApDaJs988YwlgRBDRwK16i_s2ch7_p70dyJB5z27DTNg",
       "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTE0agcIARIDTUFEGhUSCjIwMjctMDEtMTdyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA5NDds",
       "puntuacion_chollo": 67.8
+    },
+    {
+      "destino": "Venecia",
+      "pais": "Italia",
+      "origen": "MAD",
+      "precio_vuelo_eur": 39,
+      "coste_escapada_3n_eur": 264,
+      "fecha_salida": "2027-01-15",
+      "fecha_regreso": "2027-01-18",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXybzmSZQ2U8gyRpB-ICGxEpXs7OMkl6hUVhBzpsnZAcAQ1PFDaxtZoTh0WRmQJpK5j64a_FNmZ0HLYx3hkToP1KZEM6gynSyFLAJEKw",
+      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTE1agcIARIDTUFEGhUSCjIwMjctMDEtMThyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA3X3Bm",
+      "puntuacion_chollo": 65.6
+    },
+    {
+      "destino": "Mánchester",
+      "pais": "Reino Unido",
+      "origen": "MAD",
+      "precio_vuelo_eur": 39,
+      "coste_escapada_3n_eur": 264,
+      "fecha_salida": "2027-01-23",
+      "fecha_regreso": "2027-01-25",
+      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUyB-QI7_s3KKcMDZIMp7STSYjexpORme6EcVaJ6z2DXBvioPJPBMwxpz--zloc9rGtQPGoADwsG1w5inklog06vF4P4ezABhP8JyquQ",
+      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTIzagcIARIDTUFEGhUSCjIwMjctMDEtMjVyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA1MmJ3",
+      "puntuacion_chollo": 65.6
     },
     {
       "destino": "Lisboa",
@@ -39,15 +63,15 @@
       "puntuacion_chollo": 65.2
     },
     {
-      "destino": "Mánchester",
+      "destino": "Brístol",
       "pais": "Reino Unido",
       "origen": "MAD",
       "precio_vuelo_eur": 42,
       "coste_escapada_3n_eur": 267,
-      "fecha_salida": "2027-01-23",
-      "fecha_regreso": "2027-01-25",
-      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUyB-QI7_s3KKcMDZIMp7STSYjexpORme6EcVaJ6z2DXBvioPJPBMwxpz--zloc9rGtQPGoADwsG1w5inklog06vF4P4ezABhP8JyquQ",
-      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTIzagcIARIDTUFEGhUSCjIwMjctMDEtMjVyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA1MmJ3",
+      "fecha_salida": "2026-12-11",
+      "fecha_regreso": "2026-12-14",
+      "foto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY2jX0qLd1cjnkb6jeCMGGLbgmGUHTGYXdlWYZDUN8-I-VVxaBTiBkmRPfSSRDDMUoKNcGBkwD2-5_3_vuJ1SOdk5JOWyvQwUjBoXgaA",
+      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI2LTEyLTExagcIARIDTUFEGhUSCjIwMjYtMTItMTRyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA5NWww",
       "puntuacion_chollo": 64.3
     },
     {
@@ -56,22 +80,10 @@
       "origen": "MAD",
       "precio_vuelo_eur": 43,
       "coste_escapada_3n_eur": 268,
-      "fecha_salida": "2027-01-15",
-      "fecha_regreso": "2027-01-17",
+      "fecha_salida": "2027-01-30",
+      "fecha_regreso": "2027-02-01",
       "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9ojtKjiILCNbB-EEQloSQgf0ztJmvJqCEPJG2ZaV1mRpcm-IyFCJ6KiunnAuYyD0ah668bgM7zlmgzUjsRcEvefiOP-egq-zdFPy-eQ",
-      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTE1agcIARIDTUFEGhUSCjIwMjctMDEtMTdyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA0anBs",
-      "puntuacion_chollo": 63.9
-    },
-    {
-      "destino": "Brístol",
-      "pais": "Reino Unido",
-      "origen": "MAD",
-      "precio_vuelo_eur": 43,
-      "coste_escapada_3n_eur": 268,
-      "fecha_salida": "2026-12-11",
-      "fecha_regreso": "2026-12-14",
-      "foto": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY2jX0qLd1cjnkb6jeCMGGLbgmGUHTGYXdlWYZDUN8-I-VVxaBTiBkmRPfSSRDDMUoKNcGBkwD2-5_3_vuJ1SOdk5JOWyvQwUjBoXgaA",
-      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI2LTEyLTExagcIARIDTUFEGhUSCjIwMjYtMTItMTRyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA5NWww",
+      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTMwagcIARIDTUFEGhUSCjIwMjctMDItMDFyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA0anBs",
       "puntuacion_chollo": 63.9
     },
     {
@@ -90,37 +102,13 @@
       "destino": "Niza",
       "pais": "Francia",
       "origen": "MAD",
-      "precio_vuelo_eur": 47,
-      "coste_escapada_3n_eur": 272,
+      "precio_vuelo_eur": 49,
+      "coste_escapada_3n_eur": 274,
       "fecha_salida": "2026-12-11",
       "fecha_regreso": "2026-12-14",
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrd4pIWyp53uW7opuAsZZF94y5I1TULlSoiUOgEh8dY5ztx83s0l7uejpIucv6hfZCD6_3PZoeA502bplg1X94c8pt2eL7GfT4NvsCg",
       "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI2LTEyLTExagcIARIDTUFEGhUSCjIwMjYtMTItMTRyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzBjcDZ3",
-      "puntuacion_chollo": 62.1
-    },
-    {
-      "destino": "Venecia",
-      "pais": "Italia",
-      "origen": "MAD",
-      "precio_vuelo_eur": 50,
-      "coste_escapada_3n_eur": 275,
-      "fecha_salida": "2026-12-18",
-      "fecha_regreso": "2026-12-21",
-      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXybzmSZQ2U8gyRpB-ICGxEpXs7OMkl6hUVhBzpsnZAcAQ1PFDaxtZoTh0WRmQJpK5j64a_FNmZ0HLYx3hkToP1KZEM6gynSyFLAJEKw",
-      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI2LTEyLTE4agcIARIDTUFEGhUSCjIwMjYtMTItMjFyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA3X3Bm",
-      "puntuacion_chollo": 60.8
-    },
-    {
-      "destino": "Roma",
-      "pais": "Italia",
-      "origen": "MAD",
-      "precio_vuelo_eur": 51,
-      "coste_escapada_3n_eur": 276,
-      "fecha_salida": "2027-01-30",
-      "fecha_regreso": "2027-02-01",
-      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbPDHRJ1mpe3Ciqhm0quXXrKsDcz2TFBAJZrdC9aINdpgSwAxbdlGVr0n7KCOhIkfKc3kK3BTeeb-muzbqKNxrwqugqC0U0Rh7IhLxyg",
-      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTMwagcIARIDTUFEGhUSCjIwMjctMDItMDFyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA2YzYy",
-      "puntuacion_chollo": 60.4
+      "puntuacion_chollo": 61.3
     },
     {
       "destino": "Granada",
@@ -147,6 +135,30 @@
       "puntuacion_chollo": 59.5
     },
     {
+      "destino": "Roma",
+      "pais": "Italia",
+      "origen": "MAD",
+      "precio_vuelo_eur": 56,
+      "coste_escapada_3n_eur": 281,
+      "fecha_salida": "2027-01-30",
+      "fecha_regreso": "2027-02-01",
+      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbPDHRJ1mpe3Ciqhm0quXXrKsDcz2TFBAJZrdC9aINdpgSwAxbdlGVr0n7KCOhIkfKc3kK3BTeeb-muzbqKNxrwqugqC0U0Rh7IhLxyg",
+      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTMwagcIARIDTUFEGhUSCjIwMjctMDItMDFyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzA2YzYy",
+      "puntuacion_chollo": 58.2
+    },
+    {
+      "destino": "Ginebra",
+      "pais": "Suiza",
+      "origen": "MAD",
+      "precio_vuelo_eur": 56,
+      "coste_escapada_3n_eur": 281,
+      "fecha_salida": "2027-02-19",
+      "fecha_regreso": "2027-02-22",
+      "foto": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8KnZ49jzEb6Wgy6tvT1bGqHqL2jyHsAG9eQbGIiO2zIASEmyFNMDvUn7o0EuTD2EeSzufhbrv00y_CXmvW_71l-fxQyoz2yvCpLmJlA",
+      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAyLTE5agcIARIDTUFEGhUSCjIwMjctMDItMjJyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzAzOTAy",
+      "puntuacion_chollo": 58.2
+    },
+    {
       "destino": "Burdeos",
       "pais": "Francia",
       "origen": "MAD",
@@ -169,18 +181,6 @@
       "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjW-6WDhvlQyE5e1Vdx_9FVar-qu7qgMURqBBDBw7Sx9ef_MgUmf0cMjbFGM9ML_KIYzZBFkan4cDkRCYdbYlRzU6h6lzKgrH1NjXLYQ",
       "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTA0LTAxagcIARIDTUFEGhUSCjIwMjctMDQtMDRyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDyoNCAMSCS9tLzAyOXY0ag",
       "puntuacion_chollo": 56.5
-    },
-    {
-      "destino": "Dublín",
-      "pais": "Irlanda",
-      "origen": "MAD",
-      "precio_vuelo_eur": 61,
-      "coste_escapada_3n_eur": 286,
-      "fecha_salida": "2027-01-14",
-      "fecha_regreso": "2027-01-17",
-      "foto": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQv0MeqLYIcCBFKHWTvpIP3eYABuDWIZkpzBtCaWoA2_oa7Xd6SBHzrHPtk9sNrihH6Wxq3pVHcgeLd0Spy_rQhTt-d1MsjteMLdbm82A",
-      "enlace": "https://www.google.com/travel/explore?hl=es&gl=es&curr=EUR&tfs=CBwQAxoVEgoyMDI3LTAxLTE0agcIARIDTUFEGhUSCjIwMjctMDEtMTdyBwgBEgNNQURAAUgBcAGCAQsI____________AZgBAbIBDioMCAMSCC9tLzAyY2Z0",
-      "puntuacion_chollo": 56.1
     }
   ]
 }
